@@ -1,3 +1,5 @@
+// /Users/דורון/mongodb/bin/mongod.exe --dbpath=/users/דורון/mongodb-data
+
 // CRUD - create read update delete
 
 // const { MongoClient, ObjectID } = require('mongodb')

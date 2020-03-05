@@ -1,5 +1,3 @@
-// /Users/דורון/mongodb/bin/mongod.exe --dbpath=/users/דורון/mongodb-data
-
 const mongoose = require('mongoose')
 const validator = require('validator')
 
